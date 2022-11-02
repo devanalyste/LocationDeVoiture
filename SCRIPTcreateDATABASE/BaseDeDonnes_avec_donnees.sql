@@ -1,6 +1,6 @@
 CREATE DATABASE MultiLocations
 GO
-USE [Multilocations]
+USE [MultiLocations]
 GO
 /****** Object:  Table [dbo].[Couleur]    Script Date: 2022-11-02 17:21:00 ******/
 SET ANSI_NULLS ON
